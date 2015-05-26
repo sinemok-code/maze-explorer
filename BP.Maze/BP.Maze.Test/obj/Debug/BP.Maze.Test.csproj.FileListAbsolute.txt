@@ -1,0 +1,12 @@
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\resources\ExampleMaze.txt
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Test.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Test.pdb
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Entity.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Service.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Entity.pdb
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\BP.Maze.Service.pdb
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\obj\Debug\BP.Maze.Test.csprojResolveAssemblyReference.cache
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\obj\Debug\BP.Maze.Test.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\obj\Debug\BP.Maze.Test.pdb
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\Moq.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Test\bin\Debug\Moq.xml

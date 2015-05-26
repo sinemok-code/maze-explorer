@@ -1,0 +1,5 @@
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Entity\bin\Debug\BP.Maze.Entity.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Entity\bin\Debug\BP.Maze.Entity.pdb
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Entity\obj\Debug\BP.Maze.Entity.csprojResolveAssemblyReference.cache
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Entity\obj\Debug\BP.Maze.Entity.dll
+C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Entity\obj\Debug\BP.Maze.Entity.pdb
