@@ -1,7 +1,0 @@
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\bin\Debug\BP.Maze.Service.dll
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\bin\Debug\BP.Maze.Service.pdb
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\bin\Debug\BP.Maze.Entity.dll
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\bin\Debug\BP.Maze.Entity.pdb
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\obj\Debug\BP.Maze.Service.csprojResolveAssemblyReference.cache
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\obj\Debug\BP.Maze.Service.dll
-C:\Dev\Repos\Maze\BP.Maze\BP.Maze.Service\obj\Debug\BP.Maze.Service.pdb
